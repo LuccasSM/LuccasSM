@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, eu sou Luccas Santana Marinho</h1>
-<br>
 <h3 align="center">Sou iOS Developer no Brasil apaixonado pela Apple</h3>
 <br>
 
