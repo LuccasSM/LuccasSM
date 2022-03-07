@@ -11,8 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://luccassm.github.io/luccas-portfolio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://luccassm.github.io/luccas-portfolio/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luccas-santana-marinho-7b21b3177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luccas-santana-marinho-7b21b3177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luccas-santana-marinho-7b21b3177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luccas-santana-marinho-7b21b3177/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
