@@ -1,7 +1,11 @@
 <h1 align="center">Oi 👋, eu sou Luccas Santana Marinho</h1>
 <h3 align="center">Sou iOS Developer no Brasil apaixonado pela Apple</h3>
 
-- Estou trabalhando atualmente [Banco Santander Brasil](https://www.santander.com.br/)
+- Colaborar em um ambiente onde posso colocar em prática minhas habilidades em favor da instituição na qual integro, focando sempre no benefício e desenvolvimento da organização e também no meu crescimento profissional.
+
+- Formado no ensino superior com o intuito de obter ainda mais conhecimento e me qualificar no mercado de trabalho.
+
+- Estou trabalhando atualmente como Desenvolvedor Front-End Mobile (iOS) [Banco Santander Brasil](https://www.santander.com.br/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
