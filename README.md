@@ -6,7 +6,7 @@
 
 - Formado no ensino superior com o intuito de obter ainda mais conhecimento e me qualificar no mercado de trabalho.
 
-- Estou trabalhando atualmente como Desenvolvedor iOS Mobile no [Banco Santander Brasil](https://www.santander.com.br/)
+- Estou trabalhando atualmente como iOS Developer no [Banco Santander Brasil](https://www.santander.com.br/)
 <br>
 
 <h3 align="left">Connect with me:</h3>
